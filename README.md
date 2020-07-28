@@ -1,5 +1,5 @@
 # RNN_LSTM_backprop
-Building_a_RNN_LSTM_with_numpy
+Building a standard RNN (and LSTM) with numpy
 
 Basic RNN forward pass:
 
